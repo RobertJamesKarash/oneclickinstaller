@@ -21,7 +21,7 @@
 	//For 7zip use 
 	//sudo add-apt-repository universe
 	//sudo apt update
-	//sudo apt=get install p7zip-full p7zip-rar
+	//sudo apt-get install p7zip-full p7zip-rar
 	//7z e file.7z
 	//./ProgramFile
 	//cd Directory/Another-Directory/ & COMMAND-HERE &&
