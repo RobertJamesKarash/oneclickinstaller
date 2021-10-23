@@ -6,6 +6,7 @@
 	//Use Visual Studio Community with C/C++ 
 	//https://visualstudio.microsoft.com/vs/features/cplusplus/ 
 	//Download The 7zip and wget Files and put them in the directory with the sln file and in the debug/release
+	//Option: Check box to place project/solution in same folder
 	//WGET: https://eternallybored.org/misc/wget/
 	//7ZIP: https://www.7-zip.org/download.html
 	//Get The x86 / x64 - 7-Zip Extra: standalone console version, 7z DLL, Plugin for Far Manager
