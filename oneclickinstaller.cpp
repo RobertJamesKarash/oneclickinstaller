@@ -11,7 +11,6 @@
 	//Get The x86 / x64 - 7-Zip Extra: standalone console version, 7z DLL, Plugin for Far Manager
 	//Put all files in the same directory or use another direct with double backslashes to escape 
 	//cd Directory\\Another-Directory\\ & COMMAND-HERE
-	//cd Directory
 //FOR LINUX (Example for Ubuntu)
 	//GCC should also work
 	//sudo apt-get install g++ && sudo apt-get install p7zip-full && sudo apt-get install wget
