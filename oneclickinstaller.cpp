@@ -60,7 +60,7 @@ int main()
 		"del /q /f \"dotNetFx40_Full_setup.exe\" &&"
 		"del /q /f \"vc_redist.x64.exe\" &&"
 		"del /q /f \"vc_redist.x86.exe\" &&"
-		"del /q /f \"directx_Jun2010_redist.exe\""
+		"del /q /f \"directx_Jun2010_redist.exe\" &&"
 		"rmdir /Q /S nonemptydir &&"
 		"echo Installation Complete... &&"
 		"echo Launching Game... &&"
