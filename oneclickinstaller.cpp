@@ -1,5 +1,5 @@
 //Custom Developed By Robert James Karash
-//EpicMU One Click Installer
+//OneClickInstaller (1ClickInstaller)
 //White Hacker in C/DOS/BASH
 //First Open Source Release (This is the only software that is legal)
 //FOR WINDOWS
