@@ -28,8 +28,7 @@
 	//COMMAND-HERE &&
 	//ANOTHER-COMMAND &&
 	//cd Directory/Another-Directory/; COMMAND-HERE &&
-	//Use rm instead of del AND/OR rmdir
-	//Research to add parameters
+	//Use rm instead of del AND/OR rmdir - Research to add parameters
 //FOR MAC
 	//Reference and Hack using Linux
 #include <cstdlib>
@@ -54,7 +53,7 @@ int main()
 		"start vc_redist.x86.exe &&"
 		"echo Downloading Microsoft Directx 9.0... &&"
 		"wget https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe -q --show-progress &&"
-		"echo Running Microsoft Directx 9.0..."
+		"echo Running Microsoft Directx 9.0... &&"
 		"start directx_Jun2010_redist.exe &&"
 		"echo Deleting Installation Files... &&"
 		"del /q /f \"7zip-File.7z\" &&"
