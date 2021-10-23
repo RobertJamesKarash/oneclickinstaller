@@ -1,2 +1,2 @@
-# A Cross Platform OneClickInstaller in C/C++/Bash/DOS
+# A Cross Platform OneClickInstaller in C/C++/DOS/BASH
 # For Software, Games, and Desktop Applications
